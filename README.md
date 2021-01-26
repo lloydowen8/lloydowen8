@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **lloydowen8/lloydowen8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -45,6 +44,3 @@ Here are some ideas to get you started:
 - [Language Transfer for Early Warning of Epidemics from Social Media](https://arxiv.org/abs/1910.04519)
 <!-- BLOG-POST-LIST:END -->
 
----
-
--->
