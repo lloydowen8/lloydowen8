@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 - [Language Transfer for Early Warning of Epidemics from Social Media](https://arxiv.org/abs/1910.04519)
 <!-- BLOG-POST-LIST:END -->
 
+[linkedin]: https://linkedin.com/in/lloyd-owen-60b139203/
