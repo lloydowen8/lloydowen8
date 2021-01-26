@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about My powerlifting career
 - 📫 How to reach me: lloydowen0503@gmail.com
 
-### Spotify Playing 🎧
+### Spotify is currently playing 🎧
 
-[<img src="https://currently-listening-lloyd.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />]
+<img src="https://currently-listening-lloyd.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
 
 ### Connect with me:
 
