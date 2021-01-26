@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-seven-phi.vercel.app/api/spotify)](https://open.spotify.com/user/lloydowen0503)
+[![Spotify](https://lloydowen0503.vercel.app/api/spotify)](https://open.spotify.com/user/lloydowen0503)
 
 ### Connect with me:
 
