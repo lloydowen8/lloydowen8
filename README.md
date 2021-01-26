@@ -35,7 +35,7 @@
 <img align="left" alt="Cesium" width="26px" src="https://simpleicons.org/icons/cesium.svg" />
 <br />
 
-### 📕 Recent Papers I've read
+### 📕 Bedtime reading
 
 - [Language Transfer for Early Warning of Epidemics from Social Media](https://arxiv.org/abs/1910.04519)
 - [FaceForensics++: Learning to Detect Manipulated Facial Images](http://www.niessnerlab.org/projects/roessler2019faceforensicspp.html)
