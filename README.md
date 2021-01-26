@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://lloydowen8.vercel.app/api/spotify)]
+[<img src="https://currently-playing-lloyd.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
 
 ### Connect with me:
 
