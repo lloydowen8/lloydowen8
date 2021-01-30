@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning low level programming for Operating Systems
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with summer interships
-- 🥅 2021 Goals: Get my foot in the door with an software intership and contribute to more open source projects
+- 🥅 2021 Goals: Get my foot in the door with a software intership and contribute to more open source projects
 - 📫 How to reach me: lloydowen0503@gmail.com
 
 ### Spotify is currently playing 🎧
