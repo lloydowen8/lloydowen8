@@ -2,8 +2,8 @@
 
 # Computer science student, Developer, and Former Powerlifter
 
-- 🔭 I’m currently working on my university Team Project (Coming here Soon!)
-- 🌱 I’m currently learning low level programming for Operating Systems
+- 🔭 I’m currently working on personal projects (mainly visualisations & simulations in C++) 
+- 🌱 I’m currently learning OpenGL
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for summer interships
 - 🥅 2021 Goals: Get my foot in the door with a software intership and contribute to more open source projects
