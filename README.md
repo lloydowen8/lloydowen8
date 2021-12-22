@@ -35,11 +35,5 @@
 <img align="left" alt="Cesium" width="26px" src="https://simpleicons.org/icons/cesium.svg" />
 <br />
 
-### 📕 Bedtime reading
-
-- [Language Transfer for Early Warning of Epidemics from Social Media](https://arxiv.org/abs/1910.04519)
-- [FaceForensics++: Learning to Detect Manipulated Facial Images](http://www.niessnerlab.org/projects/roessler2019faceforensicspp.html)
-- [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
-- [C-Space Tunnel Discovery for Puzzle Path Planning](https://xinyazhang.gitlab.io/puzzletunneldiscovery/)
 
 [linkedin]: https://linkedin.com/in/lloyd-owen-60b139203/
