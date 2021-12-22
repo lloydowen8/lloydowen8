@@ -1,13 +1,6 @@
-### Hi there, I'm Lloyd 👋
+### Hi there!
 
-# Computer science student, Developer, and Former Powerlifter
-
-- 🔭 I’m currently working on personal projects (mainly visualisations & simulations in C++) 
-- 🌱 I’m currently learning OpenGL
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for summer interships
-- 🥅 2021 Goals: Get my foot in the door with a software intership and contribute to more open source projects
-- 📫 How to reach me: lloydowen0503@gmail.com
+Currently studying computer science at the University of Glasgow
 
 ### Spotify is currently playing 🎧
 
@@ -15,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lloydowen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
